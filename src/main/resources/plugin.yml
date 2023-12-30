@@ -1,0 +1,4 @@
+name: PlayerMention
+version: '${project.version}'
+main: me.anshextreme.playermention.PlayerMention
+api-version: '1.19'
